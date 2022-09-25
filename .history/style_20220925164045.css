@@ -1,0 +1,36 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+table {
+    margin: 150px auto;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+table td {
+    border: 2px black solid;
+    text-align: center;
+} */
+
+
+
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+table{
+    margin: 150px auto;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+table td {
+    border: 2px black solid;
+}

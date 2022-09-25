@@ -1,0 +1,9 @@
+* {
+        margin: 0;
+}
+
+.requests {
+        width: 200px;
+        height: 200px;
+        color: black;
+}

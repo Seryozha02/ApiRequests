@@ -1,0 +1,20 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+#table {
+  width: 200px;
+  height: 200px;
+  background-color: black; 
+  margin: 10px auto;
+}
+  
+  td, th {
+    border: 2px solid black;
+    text-align: left;
+    padding: 10px;    
+  }
+  
+ 
